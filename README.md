@@ -307,7 +307,6 @@ Features
 - Bulk data downloads
 - Access the Shodan DNS DB to view domain information
 - `Command-line interface <https://cli.shodan.io>`_
-
+[![image](https://cli.shodan.io/img/shodan-cli-preview.png)](https://asciinema.org/~Shodan)
 [![image](https://img.shields.io/pypi/v/shodan.svg)](https://pypi.org/project/shodan/)
 [![image](https://img.shields.io/github/contributors/achillean/shodan-python.svg)](https://github.com/achillean/shodan-python/graphs/contributors)
-[![image](https://cli.shodan.io/img/shodan-cli-preview.png)](https://asciinema.org/~Shodan)
