@@ -265,8 +265,8 @@ Have fun ..! 😃
 shodan: The official Python library and CLI for Shodan
 ======================================================
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R96YN2PUS8V8W)
-[..[image](https://img.shields.io/pypi/v/shodan.svg)](https://pypi.org/project/shodan/)
-[..[image](https://img.shields.io/github/contributors/achillean/shodan-python.svg)(https://github.com/achillean/shodan-python/graphs/contributors)
+[![image](https://img.shields.io/pypi/v/shodan.svg)](https://pypi.org/project/shodan/)
+[![image](https://img.shields.io/github/contributors/achillean/shodan-python.svg)](https://github.com/achillean/shodan-python/graphs/contributors)
 
 Shodan is a search engine for Internet-connected devices. Google lets you search for websites,
 Shodan lets you search for devices. This library provides developers easy access to all of the
