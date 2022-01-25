@@ -262,32 +262,6 @@ python3 shodan-eye.py
 Have fun ..! 😃
 ****
 
-shodan: The official Python library and CLI for Shodan
-======================================================
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R96YN2PUS8V8W)
-[![image](https://img.shields.io/pypi/v/shodan.svg)](https://pypi.org/project/shodan/)
-[![image](https://img.shields.io/github/contributors/achillean/shodan-python.svg)](https://github.com/achillean/shodan-python/graphs/contributors)
-
-Shodan is a search engine for Internet-connected devices. Google lets you search for websites,
-Shodan lets you search for devices. This library provides developers easy access to all of the
-data stored in Shodan in order to automate tasks and integrate into existing tools.
-
-Features
---------
-
-- Search Shodan
-- `Fast/ bulk IP lookups <https://help.shodan.io/developer-fundamentals/looking-up-ip-info>`_
-- Streaming API support for real-time consumption of Shodan firehose
-- `Network alerts (aka private firehose) <https://help.shodan.io/guides/how-to-monitor-network>`_
-- `Manage Email Notifications <https://asciinema.org/a/7WvyDtNxn0YeNU70ozsxvXDmL>`_
-- Exploit search API fully implemented
-- Bulk data downloads
-- Access the Shodan DNS DB to view domain information
-- `Command-line interface <https://cli.shodan.io>`_
-
-..[image::](https://cli.shodan.io/img/shodan-cli-preview.png)
-    :[target:](https://asciinema.org/~Shodan)
-	
 # Contact to coder
 Social Networks - Connect
 
@@ -314,3 +288,26 @@ Donations are one of the many ways to support what I do.
 
 BAT: Use [Brave](https://brave.com/bul891) and donate on any of my web pages/profiles
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R96YN2PUS8V8W)
+
+shodan: The official Python library and CLI for Shodan
+======================================================
+Shodan is a search engine for Internet-connected devices. Google lets you search for websites,
+Shodan lets you search for devices. This library provides developers easy access to all of the
+data stored in Shodan in order to automate tasks and integrate into existing tools.
+
+Features
+--------
+
+- Search Shodan
+- `Fast/ bulk IP lookups <https://help.shodan.io/developer-fundamentals/looking-up-ip-info>`_
+- Streaming API support for real-time consumption of Shodan firehose
+- `Network alerts (aka private firehose) <https://help.shodan.io/guides/how-to-monitor-network>`_
+- `Manage Email Notifications <https://asciinema.org/a/7WvyDtNxn0YeNU70ozsxvXDmL>`_
+- Exploit search API fully implemented
+- Bulk data downloads
+- Access the Shodan DNS DB to view domain information
+- `Command-line interface <https://cli.shodan.io>`_
+
+[![image](https://img.shields.io/pypi/v/shodan.svg)](https://pypi.org/project/shodan/)
+[![image](https://img.shields.io/github/contributors/achillean/shodan-python.svg)](https://github.com/achillean/shodan-python/graphs/contributors)
+[![image](https://cli.shodan.io/img/shodan-cli-preview.png)](https://asciinema.org/~Shodan)
