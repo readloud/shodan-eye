@@ -291,6 +291,10 @@ BAT: Use [Brave](https://brave.com/bul891) and donate on any of my web pages/pro
 
 shodan: The official Python library and CLI for Shodan
 ======================================================
+[![image](https://img.shields.io/pypi/v/shodan.svg)](https://pypi.org/project/shodan/)
+
+[![image](https://img.shields.io/github/contributors/achillean/shodan-python.svg)](https://github.com/achillean/shodan-python/graphs/contributors)
+
 Shodan is a search engine for Internet-connected devices. Google lets you search for websites,
 Shodan lets you search for devices. This library provides developers easy access to all of the
 data stored in Shodan in order to automate tasks and integrate into existing tools.
@@ -307,6 +311,5 @@ Features
 - Bulk data downloads
 - Access the Shodan DNS DB to view domain information
 - `Command-line interface <https://cli.shodan.io>`_
+
 [![image](https://cli.shodan.io/img/shodan-cli-preview.png)](https://asciinema.org/~Shodan)
-[![image](https://img.shields.io/pypi/v/shodan.svg)](https://pypi.org/project/shodan/)
-[![image](https://img.shields.io/github/contributors/achillean/shodan-python.svg)](https://github.com/achillean/shodan-python/graphs/contributors)
